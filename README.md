@@ -1,12 +1,23 @@
-# day1_calculator
-Day 1 Output of the 30 Days of Android UI Building Challenge
+Github Readme:
+
+# 30 Days 30 Android UI Building Challenge 🚀
+
+Welcome to my 30 days 30 Android UI building challenge! In this challenge, I built 30 different Android app frontends, one each day. Each app showcases a unique UI design, and I used various frameworks including Android Views, Compose, and Flutter. Below, you'll find a summary of today's app, along with screenshots, a YouTube video for live working, and the source link for the UI design inspiration.
+
+## Apps Showcase
+
+### App 1: Calculator Window 📱
+
+**Framework:** Jetpack Compose 🛠️
+
+- **Screenshots:**
+  - <img src="https://github.com/expeknow/day1_calculator/assets/106759388/aae7dc14-f7e3-43e9-b5dd-e468cf83d7e4" width = "300" height="300">
+- **YouTube Video:** [Watch Video](https://youtu.be/3Kh2bXQVCvE?feature=shared)
+- **Source Link:** [Dribbble - Figma Variables Calculator](https://dribbble.com/shots/21877372-Figma-Variables-Calculator)
 
 
-
-<img src="https://github.com/expeknow/day1_calculator/assets/106759388/1418bc1c-eadf-45df-ac7f-800166736159" alt="Image" width="500" height="500">
-
-
-<img src="https://github.com/expeknow/day1_calculator/assets/106759388/aae7dc14-f7e3-43e9-b5dd-e468cf83d7e4" width = "500" height="500">
+## Libraries Used 📚
+- [Library 1](link_to_library_1): Brief description of how it was used.
+- [Library 2](link_to_library_2): Brief description of how it was used.
 
 
-## [Click To Watch Video](https://youtu.be/3Kh2bXQVCvE?feature=shared)

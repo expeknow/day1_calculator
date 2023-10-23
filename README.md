@@ -13,9 +13,3 @@ Welcome to my 30 days 30 Android UI building challenge! In this challenge, I bui
 - **YouTube Video:** [Watch Video](https://youtu.be/3Kh2bXQVCvE?feature=shared)
 - **Source Link:** [Dribbble - Figma Variables Calculator](https://dribbble.com/shots/21877372-Figma-Variables-Calculator)
 
-
-## Libraries Used 📚
-- [Library 1](link_to_library_1): Brief description of how it was used.
-- [Library 2](link_to_library_2): Brief description of how it was used.
-
-
